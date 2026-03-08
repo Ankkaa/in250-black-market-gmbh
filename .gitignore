@@ -1,0 +1,11 @@
+# Dateien sollen nicht im Git-Repo eingeckt werden
+
+# Vertrauliche Geheimnisse
+secrets/ 
+
+# Ignoriere alle .env-Dateien - sensible Umgebungsvariablen
+*.env
+
+# Ignoriere alle .log-Dateien
+*.log
+
