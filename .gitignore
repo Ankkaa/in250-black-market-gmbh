@@ -1,4 +1,4 @@
-# Dateien sollen nicht im Git-Repo eingeckt werden
+# Dateien sollen nicht im Git-Repo sichtbar sein, um die Sicherheit zu gewährleisten
 
 # Vertrauliche Geheimnisse
 secrets/ 
