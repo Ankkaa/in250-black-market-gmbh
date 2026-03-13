@@ -21,7 +21,7 @@ https://github.com/Ankkaa/in250-black-market-gmbh/blob/85d051d91c126e7b573f4472e
 
 - Branch Strategie
 
-*Link folgt*
+https://github.com/Ankkaa/in250-black-market-gmbh/blob/df0e727cedbfc76137edb145cd3f0d7853a34a3f/docs/02_branch_strategie.md
 
 
 #### Meine Taskliste
